@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Imatinib",
+    "type": "CML",
+    "target": "BCR-ABL",
+    "efficacy": 0.88,
+    "toxicity": 0.30,
+    "base_energy": -10.2,
+    "description": "BCR-ABL tyrosine kinase inhibitor used in chronic myeloid leukemia."
+  },
+  {
+    "name": "Dasatinib",
+    "type": "CML",
+    "target": "BCR-ABL",
+    "efficacy": 0.91,
+    "toxicity": 0.35,
+    "base_energy": -10.5,
+    "description": "Second-generation BCR-ABL inhibitor for resistant cases."
+  },
+  {
+    "name": "Nilotinib",
+    "type": "CML",
+    "target": "BCR-ABL",
+    "efficacy": 0.89,
+    "toxicity": 0.32,
+    "base_energy": -10.1,
+    "description": "Second-line therapy with high target specificity."
+  },
+  {
+    "name": "Trastuzumab",
+    "type": "Breast",
+    "target": "HER2",
+    "efficacy": 0.86,
+    "toxicity": 0.24,
+    "base_energy": -9.6,
+    "description": "HER2-directed monoclonal antibody for breast cancer."
+  },
+  {
+    "name": "Pertuzumab",
+    "type": "Breast",
+    "target": "HER2",
+    "efficacy": 0.84,
+    "toxicity": 0.27,
+    "base_energy": -9.4,
+    "description": "HER2 dimerization inhibitor used in combination regimens."
+  },
+  {
+    "name": "Lapatinib",
+    "type": "Breast",
+    "target": "HER2",
+    "efficacy": 0.78,
+    "toxicity": 0.33,
+    "base_energy": -8.9,
+    "description": "Small-molecule HER2/EGFR inhibitor for advanced disease."
+  },
+  {
+    "name": "Gefitinib",
+    "type": "NSCLC",
+    "target": "EGFR",
+    "efficacy": 0.80,
+    "toxicity": 0.22,
+    "base_energy": -9.0,
+    "description": "First-generation EGFR tyrosine kinase inhibitor for NSCLC."
+  },
+  {
+    "name": "Erlotinib",
+    "type": "NSCLC",
+    "target": "EGFR",
+    "efficacy": 0.77,
+    "toxicity": 0.24,
+    "base_energy": -8.8,
+    "description": "EGFR inhibitor for advanced non-small cell lung cancer."
+  },
+  {
+    "name": "Osimertinib",
+    "type": "NSCLC",
+    "target": "EGFR",
+    "efficacy": 0.88,
+    "toxicity": 0.26,
+    "base_energy": -9.8,
+    "description": "Third-generation EGFR inhibitor with improved target selectivity."
+  },
+  {
+    "name": "Vemurafenib",
+    "type": "Melanoma",
+    "target": "BRAF",
+    "efficacy": 0.79,
+    "toxicity": 0.31,
+    "base_energy": -8.7,
+    "description": "BRAF V600E inhibitor for metastatic melanoma."
+  },
+  {
+    "name": "Dabrafenib",
+    "type": "Melanoma",
+    "target": "BRAF",
+    "efficacy": 0.81,
+    "toxicity": 0.29,
+    "base_energy": -8.9,
+    "description": "Selective BRAF inhibitor for melanoma with target mutation."
+  }
+]
