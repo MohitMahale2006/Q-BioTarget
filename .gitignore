@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor folders
+.vscode/
+.idea/
+
+# Temporary files
+.cache/
+*.tmp
+*.temp
+
+# Test coverage
+coverage/
